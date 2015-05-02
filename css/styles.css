@@ -1,0 +1,14 @@
+.textlook{
+    font-family: monospace; 
+    color: darkorange;
+    font-weight: bold;
+    
+}
+
+.bodyDesign{
+    background-color: lightgreen;
+    padding-left: 450;
+    padding-right: 450;
+    width: 600;
+    font-family: monospace;
+}

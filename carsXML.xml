@@ -1,0 +1,104 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car carId="1">
+        <make>Honda</make>
+        <model>Accord</model>
+        <state>1</state>
+        <mileage>22000</mileage>
+        <driveType>Front Wheel Drive</driveType>
+        <price>14000.55</price>
+        <colour>Red</colour>
+        <condition>The car is in good shape</condition>
+    </car>
+    <car carId="2">
+        <make>Chevy</make>
+        <model>Volt</model>
+        <state>1</state>
+        <mileage>2000</mileage>
+        <driveType>Front Wheel Drive</driveType>
+        <price>13000.99</price>
+        <colour>Green</colour>
+        <condition>The car is in good shape</condition>
+    </car>
+    <car carId="3">
+        <make>BMW</make>
+        <model>328i</model>
+        <state>1</state>
+        <mileage>0</mileage>
+        <driveType>All-Wheel Drive</driveType>
+        <price>39000</price>
+        <colour>Blue</colour>
+        <condition>The car is in good shape</condition>
+    </car>
+    <car carId="4">
+        <make>Nissan</make>
+        <model>Sentra</model>
+        <state>1</state>
+        <mileage>15000</mileage>
+        <driveType>Front Wheel Drive</driveType>
+        <price>19000</price>
+        <colour>White</colour>
+        <condition>The car is in good shape</condition>
+    </car>
+    <car carId="5">
+        <make>Kia</make>
+        <model>Rondo</model>
+        <state>1</state>
+        <mileage>17500</mileage>
+        <driveType>Front Wheel Drive</driveType>
+        <price>14000.55</price>
+        <colour>Black</colour>
+        <condition>The car is in good shape</condition>
+    </car>
+    <car carId="6">
+        <make>Mazda</make>
+        <model>CX5</model>
+        <state>1</state>
+        <mileage>30000</mileage>
+        <driveType>All-Wheel Drive</driveType>
+        <price>14000.55</price>
+        <colour>Red</colour>
+        <condition>The car is in good shape</condition>
+    </car>
+    <car carId="7">
+        <make>Hyundai</make>
+        <model>Elantra</model>
+        <state>1</state>
+        <mileage>0</mileage>
+        <driveType>Front Wheel Drive</driveType>
+        <price>14000.55</price>
+        <colour>Green</colour>
+        <condition>The car is in good shape</condition>
+    </car>
+    <car carId="8">
+        <make>Ford</make>
+        <model>Focus</model>
+        <state>1</state>
+        <mileage>20000</mileage>
+        <driveType>Front Wheel Drive</driveType>
+        <price>14000.55</price>
+        <colour>Blue</colour>
+        <condition>The car is in good shape</condition>
+    </car>
+    <car carId="9">
+        <make>Jeep</make>
+        <model>Wrangler</model>
+        <state>1</state>
+        <mileage>22000</mileage>
+        <driveType>All-Wheel Drive</driveType>
+        <price>14000.55</price>
+        <colour>White</colour>
+        <condition>The car is in good shape</condition>
+    </car>
+    <car carId="10">
+        <make>Toyota</make>
+        <model>Prius</model>
+        <state>0</state>
+        <mileage>5000</mileage>
+        <driveType>Front Wheel Drive</driveType>
+        <price>15000.95</price>
+        <colour>Black</colour>
+        <condition>It's as good as new.</condition>
+    </car>
+</cars>
